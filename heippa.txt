@@ -3,5 +3,5 @@ toinen rivi
 kolmas rivi
 joo joo
 uusi rivi lisätty netissä 
-ja toinen rivi lisätty myös
-kaveri päivitti tätä netissä 
+ja toinen rivi lisätty myös 
+oma muokkaus koneella
