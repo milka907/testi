@@ -2,3 +2,5 @@ moikka, tämä on testi.
 toinen rivi
 kolmas rivi
 joo joo
+uusi rivi lisätty netissä 
+ja toinen rivi lisätty myös
